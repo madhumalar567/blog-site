@@ -26,7 +26,7 @@ tech-talks/
 
 Clone or Download this repository:
 
-git clone https://github.com/yourusername/tech-talks.git
+git clone [repository link]
 
 
 Open the project folder:
